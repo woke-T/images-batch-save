@@ -1,8 +1,8 @@
 {
-  "name": "img-batch-download",
+  "name": "images-batch-save",
   "version": "1.0.0",
   "description": "this is batch download plugin",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.dev.config.js",
     "build": "webpack --config config/webpack.prod.config.js",
