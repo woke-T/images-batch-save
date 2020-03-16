@@ -4,6 +4,11 @@ this is a batch download plugin for images
 ## How to use?
 
 ```sh
+npm install images-batch-save --save
+
+```
+
+```sh
 import downloadImg from 'images-batch-save'
 
 const files = [
